@@ -1,5 +1,7 @@
 # ue4-gitignore
 
+INFO - https://wiki.unrealengine.com/Git_source_control_%28Tutorial%29
+
 A correct `git` setup example *with [`git-lfs`](https://git-lfs.github.com/)* for Unreal Engine 4 projects.
 
 ## Version Management Design and Conventions
